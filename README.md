@@ -38,6 +38,7 @@ Services – Web Development, Enterprise Apps, Cloud & DevOps
 Projects – Showcasing real/demo projects (Gym Management System, Employee Management System, Secure Banking System)
 
 Contact – Contact form, email, phone info
+
 ---
 
 ## ⚡ Setup Instructions
